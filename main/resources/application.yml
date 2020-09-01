@@ -19,9 +19,9 @@ spring:
       shutdown=timeout: 0
 
   mail:
-    host: smtp.163.com
-    username: guwy16@163.com
-    password: GUIBWHPESDRFKBMS
+    host: 
+    username: 
+    password: 
     default-encoding: utf-8
     properties:
       mail:
@@ -56,14 +56,14 @@ cache: redis
 
 orc:
   #baidu
-  grant_type: "client_credentials"
-  client_id: "M16Nw2U3lRQ8rTojgEWTOGFg"
-  client_secret: "ecjykwekG1ZBHj1QRHI9XmyQaBNsx9PV"
+  grant_type: ""
+  client_id: ""
+  client_secret: ""
 
   #chajiying
-  user: simklot
-  pass: qwaa1976
-  softid: 903833
+  user: 
+  pass: 
+  softid: 
   len_min: 0
   codetype: 1005
 
